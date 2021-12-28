@@ -1,0 +1,19 @@
+body{
+    background-color: #dedede;
+}
+
+section{
+    width: 400px;
+    border: 2px solid black;
+    padding: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    
+    background-color: darkcyan;
+    color: #fff;
+    padding: 50px;
+    border: 5px solid black;
+}
